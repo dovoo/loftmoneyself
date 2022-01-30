@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    <string name="app_name">loftmoney</string>
+    <string name="titleText">Наименование</string>
+    <string name="priceText">Цена</string>
+    <string name="buttonText">Добавить</string>
+</resources>
